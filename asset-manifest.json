@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61c3487a.chunk.css",
+    "main.js": "/static/js/main.5633df29.chunk.js",
+    "main.js.map": "/static/js/main.5633df29.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.146914a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.146914a7.js.map",
+    "static/css/2.da3f07b0.chunk.css": "/static/css/2.da3f07b0.chunk.css",
+    "static/js/2.40afb6f1.chunk.js": "/static/js/2.40afb6f1.chunk.js",
+    "static/js/2.40afb6f1.chunk.js.map": "/static/js/2.40afb6f1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.da3f07b0.chunk.css.map": "/static/css/2.da3f07b0.chunk.css.map",
+    "static/css/main.61c3487a.chunk.css.map": "/static/css/main.61c3487a.chunk.css.map",
+    "static/js/2.40afb6f1.chunk.js.LICENSE.txt": "/static/js/2.40afb6f1.chunk.js.LICENSE.txt",
+    "static/media/flag-icon.min.css": "/static/media/zw.f5ceeff7.svg",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
+    "static/media/photo-album-icon-png-24.da2fcc3f.jpg": "/static/media/photo-album-icon-png-24.da2fcc3f.jpg",
+    "static/media/Index.css": "/static/media/travel0.136fcb74.jpg",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/top.9537fc71.PNG": "/static/media/top.9537fc71.PNG",
+    "static/media/video.9b48fe01.jpg": "/static/media/video.9b48fe01.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.146914a7.js",
+    "static/css/2.da3f07b0.chunk.css",
+    "static/js/2.40afb6f1.chunk.js",
+    "static/css/main.61c3487a.chunk.css",
+    "static/js/main.5633df29.chunk.js"
+  ]
+}
